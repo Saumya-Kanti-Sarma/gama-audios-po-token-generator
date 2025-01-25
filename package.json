@@ -1,0 +1,16 @@
+{
+  "name": "gama-audios-node-backend",
+  "version": "1.0.0",
+  "description": "this is the node js backend module of gama-audios that generates the PO-token for the pytubeFix.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "youtube-po-token-generator": "^0.3.0"
+  }
+}
