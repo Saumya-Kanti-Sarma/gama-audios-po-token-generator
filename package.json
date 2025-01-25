@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "this is the node js backend module of gama-audios that generates the PO-token for the pytubeFix.",
   "main": "index.js",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
